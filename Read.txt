@@ -4,6 +4,6 @@ Milker Fernandez
 Link da resposta da API
 https://www.milker.somee.com/oldest-csharp-repos
 
-Anexo zip da api por problemas com meu github, nao consegui subir ao github.
+Anexo zip da API.
 
 Anexo flujo do blip
